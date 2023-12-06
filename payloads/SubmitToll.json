@@ -1,12 +1,12 @@
 {
   "id": "3234R3dfdfdf45",
-  "createdAt": "29-Nov-2023",
-  "collectionDate": "29-Nov-2023",
-  "createdBy": "Abdul",
-  "updatedBy": "Abdul",
+  "createdAt": "05-Dec-2023",
+  "collectionDate": "05-Dec-2023",
+  "createdBy": "Shimul",
+  "updatedBy": "Shimul",
   "collectionPointId": "NY088734",
   "tagNumber":  "RX999",
   "vehicleType": "Hybrid Vehicles",
   "tollCollectionMethod":"Cash",
-  "tollRate":19
+  "tollRate":25
 }
